@@ -34,3 +34,4 @@ rosdep update
 (if you faced an error with catkin_make command in this case run: ```pip3 install -U rosdep rosinstall_generator wstool rosinstall six vcstools```)
 ### Controlling the motors
 - ```roslaunch robot_arm_pkg check_motors.launch```
+- ![image](https://github.com/Rama-Alyoubi/Robot_Arm_Simulation_on_ROS/assets/128150728/7d1117af-e50a-43bf-afe6-06f2075341eb)
